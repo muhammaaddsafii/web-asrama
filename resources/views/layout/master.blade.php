@@ -43,19 +43,19 @@
                             id="navbarSupportedContent">
                             <ul class="navbar-nav align-items-center">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/')}}">About us</a>
+                                    <a class="nav-link" href="{{url('/')}}">Tentang</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="{{url('/program')}}">Program</a>
                                 </li> 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/news')}}">News</a>
+                                    <a class="nav-link" href="{{url('/news')}}">Berita</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/member')}}">Member</a>
+                                    <a class="nav-link" href="{{url('/member')}}">Anggota</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/contact')}}">Contact</a>
+                                    <a class="nav-link" href="{{url('/contact')}}">Kontak</a>
                                 </li>
                             </ul>
                         </div>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-xl-3 col-sm-6 col-md-4">
                     <div class="single-footer-widget footer_2">
-                        <h4>Our Gallery</h4>
+                        <h4>Galeri Asrama</h4>
                         <div class="footer_img">
                             <a href="#"><img src="img/footer_img/footer_1.png" alt=""></a>
                             <a href="#"><img src="img/footer_img/footer_2.png" alt=""></a>
@@ -95,11 +95,11 @@
                 </div>
                 <div class="col-xl-3 col-sm-6 col-md-4">
                     <div class="single-footer-widget footer_2">
-                        <h4>Contact info</h4>
+                        <h4>Kontak Info</h4>
                         <div class="contact_info"> 
                             <p>Asrama Thonthowy Djauharhy</p>
-                            <p><span> Address :</span> Perum. Lempongsari Blok B-1, Sariharjo, Ngaglik </p>
-                            <p><span> Phone :</span> +6285790343130</p>
+                            <p><span> Alamat :</span> Perum. Lempongsari Blok B-1, Sariharjo, Ngaglik </p>
+                            <p><span> Telepon:</span> +6285790343130</p>
                             <p><span> Email : </span>asramattdj@gmail.com </p>
                         </div>
                     </div>

@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-xl-12" style="margin-top:-8%">
                     <div class="section_tittle">
-                        <h2>Our Program</h2>
+                        <h2>Program Kami</h2>
                     </div>
                 </div>
             </div>
