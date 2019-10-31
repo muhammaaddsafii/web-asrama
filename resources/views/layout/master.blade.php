@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Excon</title>
+    <title>Asrama Thonthowy Djauharhy</title>
     <link rel="icon" href="img/favicon.png">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -32,7 +32,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="index.html"> <img src="img/logo.png" alt="logo"> </a>
+                        <a class="navbar-brand" href="{{url('/')}}"> <img src="img/logo.png" alt="logo"> </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -43,25 +43,19 @@
                             id="navbarSupportedContent">
                             <ul class="navbar-nav align-items-center">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/')}}">Home</a>
+                                    <a class="nav-link" href="{{url('/')}}">About us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/about')}}">About</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/services')}}">services</a>
+                                    <a class="nav-link" href="{{url('/program')}}">Program</a>
                                 </li> 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/blog')}}">Blog</a>
+                                    <a class="nav-link" href="{{url('/news')}}">News</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{url('/pages')}}">Pages</a>
+                                    <a class="nav-link" href="{{url('/member')}}">Member</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="{{url('/contact')}}">Contact</a>
-                                </li>
-                                <li class="d-none d-lg-block">
-                                    <a class="btn_1" href="#">Get a Quote</a>
                                 </li>
                             </ul>
                         </div>
@@ -81,31 +75,7 @@
                 <div class="col-sm-6 col-md-4 col-xl-3">
                     <div class="single-footer-widget footer_1">
                         <a href="index.html"> <img src="img/footer_logo.png" alt=""> </a>
-                        <p>So seed seed green that winged cattle in Gahesd thing made fly you're no divided deep move lan Gathering thing us land years living on floor me the cavaty do buty fresh</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-sm-6 col-md-4">
-                    <div class="single-footer-widget footer_2">
-                        <h4>Best Services</h4>
-                        <div class="contact_info">
-                            <ul>
-                                <li>
-                                    <a href="#">General Contracting</a>
-                                </li>
-                                <li>
-                                    <a href="#">Mechanical Engineering</a>
-                                </li>
-                                <li>
-                                    <a href="#">Civil Engineering</a>
-                                </li>
-                                <li>
-                                    <a href="#">Bridge Construction</a>
-                                </li>
-                                <li>
-                                    <a href="#">Electrical Engineering</a>
-                                </li>
-                            </ul>
-                        </div>
+                        <p style="text-align:center">Terbentuknya alumni asrama yang berakhlakul karimah, cerdas, amanah, berperilaku uswatun hasanah, dan pemimpin umat</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-sm-6 col-md-4">
@@ -127,11 +97,10 @@
                     <div class="single-footer-widget footer_2">
                         <h4>Contact info</h4>
                         <div class="contact_info"> 
-                            <p>4361 Morningview Lane Artland , Street
-                                    Latimer, IA 50452 / 23654</p>
-                            <p><span> Address :</span> Hath of it fly signs bear be one blessed after </p>
-                            <p><span> Phone :</span> +2 36 265 (8060)</p>
-                            <p><span> Email : </span>info@colorlib.com </p>
+                            <p>Asrama Thonthowy Djauharhy</p>
+                            <p><span> Address :</span> Perum. Lempongsari Blok B-1, Sariharjo, Ngaglik </p>
+                            <p><span> Phone :</span> +6285790343130</p>
+                            <p><span> Email : </span>asramattdj@gmail.com </p>
                         </div>
                     </div>
                 </div>
@@ -145,7 +114,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <p class="footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                             </div>
                         </div>
