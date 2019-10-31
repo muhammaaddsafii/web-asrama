@@ -1,63 +1,174 @@
 @extends('layout.master')
 @section('content')
-    <!-- our_project part start-->
-    <section class="our_project section_padding" id="portfolio">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-lg-5 col-sm-10">
-                    <div class="section_tittle">
-                        <h2>Our Projects</h2>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-sm-10">
-                    <div class="filters portfolio-filter project_menu_item">
-                        <ul>
-                            <li class="active" data-filter="*">All</li>
-                            <li data-filter=".buildings">Buildings</li>
-                            <li data-filter=".rebuild">Rebuild</li>
-                            <li data-filter=".architecture">Architecture</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="filters-content">
-                <div class="row justify-content-between portfolio-grid">
-                    <div class="col-lg-4 col-sm-6 all buildings">
-                        <div class="single_our_project">
-                            <div class="single_offer">
-                                <img src="img/project_1.png" alt="offer_img_1">
-                                <div class="hover_text">
-                                    <p>Bank Protected</p>
-                                    <a href="#"><h2>Banking & Finance</h2></a>
-                                </div>
+
+<section class="review_part section_padding margin_bottom">
+    <h2 style="text-align:center; margin-top:-100px">Anggota Kami</h2>
+    <br><br>
+                <div class="row">
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_2.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bangga bisa menjadi anggota Asrama Thonthowy Djauharhy</p>
+                                <h4>Dzulkifli</h4>
+                                <h5>Teknik Pertanian UGM 2017</h5>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 all rebuild">
-                        <div class="single_our_project">
-                            <div class="single_offer">
-                                <img src="img/project_2.png" alt="offer_img_1">
-                                <div class="hover_text">
-                                    <p>Bank Protected</p>
-                                    <a href="#"><h2>Banking & Finance</h2></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 all architecture">
-                        <div class="single_our_project">
-                            <div class="single_offer">
-                                <img src="img/project_3.png" alt="offer_img_1">
-                                <div class="hover_text">
-                                    <p>Bank Protected</p>
-                                    <a href="#"><h2>Banking & Finance</h2></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
-            </div>
-        </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_1.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bisa belajar banyak hal di luar akademik yaa dari Asrama Thonthowy</p>
+                                <h4>Safii</h4>
+                                <h5>Tek. Informasi UGM 2015</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_3.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Dulu saya introvert, setelah tinggal di asrama sekarang saya super ektsrovert</p>
+                                <h4>Nurroy</h4>
+                                <h5>Elins UGM 2014</h5>
+                            </div>
+                        </div>
+                </div>
+                </div>
+
+                <div class="row">
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_2.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bangga bisa menjadi anggota Asrama Thonthowy Djauharhy</p>
+                                <h4>Dzulkifli</h4>
+                                <h5>Teknik Pertanian UGM 2017</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_1.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bisa belajar banyak hal di luar akademik yaa dari Asrama Thonthowy</p>
+                                <h4>Safii</h4>
+                                <h5>Tek. Informasi UGM 2015</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_3.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Dulu saya introvert, setelah tinggal di asrama sekarang saya super ektsrovert</p>
+                                <h4>Nurroy</h4>
+                                <h5>Elins UGM 2014</h5>
+                            </div>
+                        </div>
+                </div>
+                </div>
+
+                <div class="row">
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_2.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bangga bisa menjadi anggota Asrama Thonthowy Djauharhy</p>
+                                <h4>Dzulkifli</h4>
+                                <h5>Teknik Pertanian UGM 2017</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_1.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bisa belajar banyak hal di luar akademik yaa dari Asrama Thonthowy</p>
+                                <h4>Safii</h4>
+                                <h5>Tek. Informasi UGM 2015</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_3.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Dulu saya introvert, setelah tinggal di asrama sekarang saya super ektsrovert</p>
+                                <h4>Nurroy</h4>
+                                <h5>Elins UGM 2014</h5>
+                            </div>
+                        </div>
+                </div>
+                </div>
+
+                <div class="row">
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_2.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bangga bisa menjadi anggota Asrama Thonthowy Djauharhy</p>
+                                <h4>Dzulkifli</h4>
+                                <h5>Teknik Pertanian UGM 2017</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_1.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bisa belajar banyak hal di luar akademik yaa dari Asrama Thonthowy</p>
+                                <h4>Safii</h4>
+                                <h5>Tek. Informasi UGM 2015</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_3.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Dulu saya introvert, setelah tinggal di asrama sekarang saya super ektsrovert</p>
+                                <h4>Nurroy</h4>
+                                <h5>Elins UGM 2014</h5>
+                            </div>
+                        </div>
+                </div>
+                </div>
+
+                <div class="row">
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_2.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bangga bisa menjadi anggota Asrama Thonthowy Djauharhy</p>
+                                <h4>Dzulkifli</h4>
+                                <h5>Teknik Pertanian UGM 2017</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_1.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Saya bisa belajar banyak hal di luar akademik yaa dari Asrama Thonthowy</p>
+                                <h4>Safii</h4>
+                                <h5>Tek. Informasi UGM 2015</h5>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                        <div class="single_review_part">
+                            <img src="img/client/client_3.png" alt="">
+                            <div class="tour_pack_content">
+                                <p>Dulu saya introvert, setelah tinggal di asrama sekarang saya super ektsrovert</p>
+                                <h4>Nurroy</h4>
+                                <h5>Elins UGM 2014</h5>
+                            </div>
+                        </div>
+                </div>
+                </div>
+                
+
     </section>
-    <!-- our_project part end-->
 @stop
