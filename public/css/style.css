@@ -2655,16 +2655,15 @@ ul {
 .about_part {
   position: relative;
   z-index: 99;
-  background-image: url(../img/about_overlay.png);
   background-repeat: no-repeat;
   background-position: left;
-  margin-top: 170px;
+  margin-top: 70px;
 }
 
 @media (max-width: 991px) {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_about_part.scss */
   .about_part {
-    margin-top: 0;
+    margin-top: 100px;
     background-image: none;
     padding: 70px 0 0;
   }
@@ -2673,7 +2672,7 @@ ul {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_about_part.scss */
   .about_part {
-    margin-top: 80px;
+    margin-top: 50px;
     background-image: none;
   }
 }
@@ -2866,7 +2865,6 @@ ul {
 
 /* line 158, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_about_part.scss */
 .experiance_part {
-  background-image: url(../img/experiance_overlay.png);
   background-repeat: no-repeat;
   background-position: right;
 }

@@ -4,7 +4,7 @@
     <section class="our_service section_padding single_page_services">
         <div class="container">
             <div class="row">
-                <div class="col-xl-12" style="margin-top:-8%">
+                <div class="col-xl-12" style="margin-top:-10%">
                     <div class="section_tittle">
                         <h2>Program Kami</h2>
                     </div>
