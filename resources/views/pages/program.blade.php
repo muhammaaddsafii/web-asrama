@@ -14,7 +14,7 @@
                 <div class="col-sm-4 col-xl-4" style="margin-top:-5%">
                     <div class="single_feature">
                         <div class="single_service">
-                            <span class="flaticon-ui"></span>
+                            <span><img src="img/tahsin-icon.png"></span>
                             <h4>Tahsin</h4>
                             <p>Tashsin merupakan program Asrama Thonthowy Djauharhy untuk meningkatkan kualitas membaca Al-Qur'an penghuni Asrama Thonthowy Djauharhy
                             </p>
@@ -25,7 +25,7 @@
                 <div class="col-sm-4 col-xl-4" style="margin-top:-5%">
                     <div class="single_feature">
                         <div class="single_service">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/kajian-rutin-icon.png"></span>
                             <h4>Pengajian Rutin</h4>
                             <p>Pengajian rutin merupakan program Asrama Thonthowy Djauharhy 
                             sebagai sarana dakwah di lingkungan asrama. Pengajian ini dilakukan setiap 3 bulan sekali</p>
@@ -36,7 +36,7 @@
                 <div class="col-sm-4 col-xl-4" style="margin-top:-5%">
                     <div class="single_feature">
                         <div class="single_service single_service_2">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/pengajar-tpa-icon.png"></span>
                             <h4>Pengajar TPA</h4>
                             <p>Pengajar TPA (Taman Pendidikan Al-Qur'an) sudah menjadi kegiatan rutin anggota asrama, ini merupakan sarana pengabdian masyarakat terhadap lingkungan masjid terdekat</p>
                             <a href="#" class="btn_3">read more</a>
@@ -46,7 +46,7 @@
                 <div class="col-sm-4 col-xl-4">
                     <div class="single_feature">
                         <div class="single_service">
-                            <span class="flaticon-ui"></span>
+                        <span><img src="img/kajian-internal-icon.png"></span>
                             <h4>Kajian Internal</h4>
                             <p>Kajian Internal bertujuan untuk meningkatkan kemampuan public speaking dan sebagai sarana diskusi antar anggota asrama</p>
                             <a href="#" class="btn_3">read more</a>
@@ -56,7 +56,7 @@
                 <div class="col-sm-4 col-xl-4">
                     <div class="single_feature">
                         <div class="single_service">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/kajian-eksternal-icon.png"></span>
                             <h4>Kajian Eksternal</h4>
                             <p>Kajian yang dilakukan sebulan sekali yang diisi oleh Ust.Budi Lc bertujuan untuk meningkatkan pengetahuan ilmu agama anggota asrama</p>
                             <a href="#" class="btn_3">read more</a>
@@ -66,7 +66,7 @@
                 <div class="col-sm-4 col-xl-4">
                     <div class="single_feature">
                         <div class="single_service single_service_2">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/remaja-masjid-icon.png"></span>
                             <h4>Remaja Masjid</h4>
                             <p>Anggota asrama aktif di kegiatan masjid seperti panitia kegiatan PHBI, pengisi kultum, dan ikut serta di kepanitian kegiatan masjid</p>
                             <a href="#" class="btn_3">read more</a>
@@ -76,7 +76,7 @@
                 <div class="col-sm-4 col-xl-4">
                     <div class="single_feature">
                         <div class="single_service single_service_2">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/sosial-masyarakat-icon.png"></span>
                             <h4>Sosial Masyarakat</h4>
                             <p>Selain aktif di kegiatan masjid, anggota asrama juga aktif di kegiatan masyarakat, seperti panitia PHBN</p>
                             <a href="#" class="btn_3">read more</a>
@@ -86,7 +86,7 @@
                 <div class="col-sm-4 col-xl-4">
                     <div class="single_feature">
                         <div class="single_service single_service_2">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/sowan-alumni-icon.png"></span>
                             <h4>Sowan Alumni</h4>
                             <p>Sowan alumni biasanya dilakukan ketika momen Idul Fitri. Hal ini bertujuan untuk meningkatkan tali silaturahim</p>
                             <a href="#" class="btn_3">read more</a>
@@ -96,7 +96,7 @@
                 <div class="col-sm-4 col-xl-4">
                     <div class="single_feature">
                         <div class="single_service single_service_2">
-                                <span class="flaticon-ui"></span>
+                        <span><img src="img/graduation-icon.png"></span>
                             <h4>Graduation</h4>
                             <p>Acara graduation dilakukan dengan acara makan-makan ketika ada penghuni asrama yang telah menyelesaikan studi</p>
                             <a href="#" class="btn_3">read more</a>
