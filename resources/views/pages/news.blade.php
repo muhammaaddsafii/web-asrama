@@ -4,26 +4,25 @@
     <section class="blog_area section_padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 mb-5 mb-lg-0">
+                <div class="col-lg-8 mb-5 mb-lg-0" style="margin-top:-90px">
                     <div class="blog_left_sidebar">
                         <article class="blog_item">
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>09</h3>
+                                    <p>Okt</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Akhirnya, Nurroy sidang !</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Nurroy Sapto Anggoro, mahasiswa Asrama Thonthowy Djauharhy angkatan 2014 telah melaksanakan sidang Tugas Akhir</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="far fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-user"></i> Asrama, Sidang</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i> 03 Komentar</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -32,20 +31,19 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_2.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>27</h3>
+                                    <p>Sept</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Habib, Ketua TPA As-Salam Baru</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Alhamdulillah, telah terpilih ketua baru untuk TPA AS-Salam Periode 2019-2020. </p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="far fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-user"></i> Asrama, TPA</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i> 03 Komentar</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -54,20 +52,19 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_3.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>26</h3>
+                                    <p>Sept</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Ketua Baru, yaaay !</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Rizal Pradipto terpilih sebagi ketua baru Asrama Thonthowy Djauharhy Periode 2019-2020.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="far fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-user"></i> Asrama</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i> 03 Komentar</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -76,20 +73,19 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_4.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>22</h3>
+                                    <p>Agus</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Graduation Enggar Yudha</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Selamat untuk mas Enggar yang telah menyelesaikan studinya !</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="far fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-user"></i> Asrama, Graduation</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i> 03 Komentar</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -98,20 +94,19 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_5.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>03</h3>
+                                    <p>Mei</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Pengajian bulanan, sukses !</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Telah terlaksana pengajian umum bulanan di Asrama. Terima kasih untuk seluruh teman-teman yang sudah membantu pelaksanaan acara.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="far fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="far fa-user"></i> Asrama, Kajian</a></li>
+                                    <li><a href="#"><i class="far fa-comments"></i> 03 Komentar</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -139,181 +134,104 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="blog_right_sidebar">
+                    <div class="blog_right_sidebar" style="margin-top:-90px;">
                         <aside class="single_sidebar_widget search_widget">
                             <form action="#">
                                <div class="form-group">
                                   <div class="input-group mb-3">
-                                     <input type="text" class="form-control" placeholder='Search Keyword'
+                                     <input type="text" class="form-control" placeholder='Cari Kata Kunci'
                                         onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search Keyword'">
                                      <div class="input-group-append">
                                         <button class="btn" type="button"><i class="ti-search"></i></button>
                                      </div>
                                   </div>
                                </div>
-                               <button class="button rounded-0 primary-bg text-white w-100 btn_1" type="submit">Search</button>
+                               <button class="button rounded-0 primary-bg text-white w-100 btn_1" type="submit">Cari</button>
                             </form>
                          </aside>
 
                         <aside class="single_sidebar_widget post_category_widget">
-                            <h4 class="widget_title">Category</h4>
+                            <h4 class="widget_title">Kategori</h4>
                             <ul class="list cat-list">
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Resaurant food</p>
+                                        <p>Asrama</p>
                                         <p>(37)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Travel news</p>
+                                        <p>kajian</p>
                                         <p>(10)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Modern technology</p>
+                                        <p>Sidang</p>
                                         <p>(03)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Product</p>
+                                        <p>Graduation</p>
                                         <p>(11)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Inspiration</p>
-                                        <p>21</p>
+                                        <p>TPA</p>
+                                        <p>(21)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Health Care (21)</p>
-                                        <p>09</p>
+                                        <p>Internal</p>
+                                        <p>(0)</p>
                                     </a>
                                 </li>
                             </ul>
                         </aside>
 
-                        <aside class="single_sidebar_widget popular_post_widget">
-                            <h3 class="widget_title">Recent Post</h3>
-                            <div class="media post_item">
-                                <img src="img/post/post_1.png" alt="post">
-                                <div class="media-body">
-                                    <a href="single-blog.html">
-                                        <h3>From life was you fish...</h3>
-                                    </a>
-                                    <p>January 12, 2019</p>
-                                </div>
-                            </div>
-                            <div class="media post_item">
-                                <img src="img/post/post_2.png" alt="post">
-                                <div class="media-body">
-                                    <a href="single-blog.html">
-                                        <h3>The Amazing Hubble</h3>
-                                    </a>
-                                    <p>02 Hours ago</p>
-                                </div>
-                            </div>
-                            <div class="media post_item">
-                                <img src="img/post/post_3.png" alt="post">
-                                <div class="media-body">
-                                    <a href="single-blog.html">
-                                        <h3>Astronomy Or Astrology</h3>
-                                    </a>
-                                    <p>03 Hours ago</p>
-                                </div>
-                            </div>
-                            <div class="media post_item">
-                                <img src="img/post/post_4.png" alt="post">
-                                <div class="media-body">
-                                    <a href="single-blog.html">
-                                        <h3>Asteroids telescope</h3>
-                                    </a>
-                                    <p>01 Hours ago</p>
-                                </div>
-                            </div>
-                        </aside>
                         <aside class="single_sidebar_widget tag_cloud_widget">
-                            <h4 class="widget_title">Tag Clouds</h4>
+                            <h4 class="widget_title">Tag Berita</h4>
                             <ul class="list">
                                 <li>
-                                    <a href="#">project</a>
+                                    <a href="#">Asrama</a>
                                 </li>
                                 <li>
-                                    <a href="#">love</a>
+                                    <a href="#">Kajian</a>
                                 </li>
                                 <li>
-                                    <a href="#">technology</a>
+                                    <a href="#">TPA</a>
                                 </li>
                                 <li>
-                                    <a href="#">travel</a>
+                                    <a href="#">Graduation</a>
                                 </li>
                                 <li>
-                                    <a href="#">restaurant</a>
+                                    <a href="#">Internal</a>
                                 </li>
                                 <li>
-                                    <a href="#">life style</a>
+                                    <a href="#">Sidang</a>
                                 </li>
                                 <li>
-                                    <a href="#">design</a>
+                                    <a href="#">Sosial</a>
                                 </li>
                                 <li>
-                                    <a href="#">illustration</a>
+                                    <a href="#">UGM</a>
                                 </li>
                             </ul>
                         </aside>
-
-
-                        <aside class="single_sidebar_widget instagram_feeds">
-                            <h4 class="widget_title">Instagram Feeds</h4>
-                            <ul class="instagram_row flex-wrap">
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/post_5.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/post_6.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/post_7.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/post_8.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/post_9.png" alt="">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <img class="img-fluid" src="img/post/post_10.png" alt="">
-                                    </a>
-                                </li>
-                            </ul>
-                        </aside>
-
 
                         <aside class="single_sidebar_widget newsletter_widget">
-                            <h4 class="widget_title">Newsletter</h4>
+                            <h4 class="widget_title">Koran Asrama</h4>
 
                             <form action="#">
                                 <div class="form-group">
                                     <input type="email" class="form-control" onfocus="this.placeholder = ''"
-                                        onblur="this.placeholder = 'Enter email'" placeholder='Enter email' required>
+                                        onblur="this.placeholder = 'Enter email'" placeholder='Masukkan email' required>
                                 </div>
                                 <button class="button rounded-0 primary-bg text-white w-100 btn_1"
-                                    type="submit">Subscribe</button>
+                                    type="submit">Berlangganan</button>
                             </form>
                         </aside>
                     </div>
